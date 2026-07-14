@@ -4,4 +4,4 @@ A project to build a compiled programming language designed to be able to read a
 
 The project is currently in the process of being designed.
 
-You can find us on mastodon at [@loidlang](https://mastodon.social/@loidlang@mastodon.social)
+You can find us on mastodon at [@loidlang@mastodon.social](https://mastodon.social/@loidlang)
